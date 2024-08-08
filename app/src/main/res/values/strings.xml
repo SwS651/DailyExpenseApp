@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Daily Expense</string>
+    <string name="expense_word">Add Expense</string>
+    <string name="hint_word">Expense...</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Expense not saved because it is empty.</string>
+
+
+    <string-array name="currency_type">
+        <item>MYR</item>
+        <item>USD</item>
+        <item>CNY</item>
+        <item>JPY</item>
+        <item>EUR</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

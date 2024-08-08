@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_sevendays"
+        android:title="7 days"
+        android:icon="@drawable/baseline_list_alt_24"/>
+    <item
+        android:id="@+id/nav_fifteendays"
+        android:icon="@drawable/baseline_list_alt_24"
+        android:title="15 days" />
+    <item
+        android:id="@+id/nav_all"
+        android:title="All"
+        android:icon="@drawable/baseline_list_alt_24"/>
+</menu>
